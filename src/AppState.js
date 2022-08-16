@@ -5,7 +5,7 @@ export const AppState = reactive({
   user: {},
   account: {},
 
-  /**@type {import('./models/Dates.js').Dates[]} */
-  dates: [],
+  /**@type {import('./models/Date.js').Date[]} */
+  dates: {},
 
 })

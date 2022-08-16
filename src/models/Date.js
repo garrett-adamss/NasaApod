@@ -5,6 +5,5 @@ export class Date {
         this.explanation = data.explanation
         this.img = this.img || data.hdurl 
         this.title = this.title
-
     }
 }
